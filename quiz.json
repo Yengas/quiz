@@ -1,0 +1,388 @@
+{
+  "questions": [
+    {
+      "text": "Aşağıdakilerden hangisi krizin ana özelliklerinden biri değildir?",
+      "choices": [
+        "Sürpriz",
+        "Mekan",
+        "Zaman",
+        "Tehdit"
+      ]
+    },
+    {
+      "text": "Topumdaki değer ve inanç yapısını kapsayan dış çevre faktörü hangisidir?",
+      "choices": [
+        "Doğal Faktörler",
+        "Teknolojik faktörler",
+        "Sosyo-kültürel faktörler",
+        "Politik ve yasal faktörler"
+      ]
+    },
+    {
+      "text": "İşletme yaşam evrelerinin tüm aşamalarında yöneticilerin karşılaşabileceği krizler arasında aşağıdakilerden hangisi doğru olarak verilmiştir?",
+      "choices": [
+        "Liderlik Krizi (Büyüme dönemi)",
+        "Bürokrasi Krizi (Olgunluk dönemi)",
+        "Canlanma İhtiyacı Krizi (İlk kuruluş dönemi)",
+        "Yetki Devri Krizi (Gerilime dönemi)"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi müşteri memnuniyetini etkileyen faktörlerden değildir?",
+      "choices": [
+        "Ziyaretler ve görüşmeler",
+        "Odak grupları",
+        "Müşteri başvuruları",
+        "Saha çalışmaları",
+        "Müşteri şikayetleri"
+      ]
+    },
+    {
+      "text": "Küreselleşmenin başlangıcı hangi alanda olmuştur?",
+      "choices": [
+        "Sanayi ve hizmet",
+        "Teknoloji ve Denizcilik",
+        "Sağlık ve Eğitim",
+        "Turizm ve Gıda",
+        "Siyasi ve Ekonomi"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi müşteri odaklı yönetimin temel özelliklerinde değildir?",
+      "choices": [
+        "Müşteri kraldır anlayışına sahip olmak",
+        "Müşterilerin ihtiyacını belirlemek için araştırmalar yapmış olmak",
+        "Müşteri ilişkilerinin satıştan sonra da devam etmesinin önemine inanmak",
+        "Ürün ve hizmetleri müşterinin ihtiyaçlarını tam karşılayacak şekilde organize etmek",
+        "Müşteriye karşı kibirli ve küstah bir tutum sergilemek"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi doğru tedarikçiyi seçmede en kısa zaman ve harcama için izlenecek yollardan biri değildir?",
+      "choices": [
+        "Tedarik profilinin belirlenmesi",
+        "Ziyaretin gerçekleşmesi",
+        "Bilgi edinme",
+        "Teklifin istenmesi",
+        "Fiyat listesi değerlendirme"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi dış kaynak kullanımına konu olan türlerden biri değildir?",
+      "choices": [
+        "İkinci hizmetler şeklinde dış kaynak kullanımı",
+        "Yardımcı şebeke olarak dış kaynak kullanımı",
+        "İşletmeye ait bir ürün için fabrikada yeni bir sürecin kullanılması",
+        "Tedarikçi işletmelerle stratejik iş birliği oluşturma",
+        "Rakipler ile iş birliği oluşturma"
+      ]
+    },
+    {
+      "text": "Üretilen mal ya da hizmete yönelik talep ve verimlilik ile ücret ödemeleri arasındaki eşgüdüm değişiklik sağlar’ tanımı hangisine aittir?",
+      "choices": [
+        "Fonksiyonel esneklik",
+        "Gelir esnekliği",
+        "Bilgi ve becerileri aktarma",
+        "Sayısal esneklik",
+        "Kaliteyi arttırma"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kıyaslama türlerinden odaklanan noktaya göre kıyaslama içerisinde yer alır ?",
+      "choices": [
+        "İçsel Kıyaslama",
+        "Rekabetçi Kıyaslama",
+        "Fonksiyonel Kıyaslama",
+        "Stratejik Kıyaslama",
+        "Genel Kıyaslama"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kıyaslamanın amaçlarından biri değildir ?",
+      "choices": [
+        "Şirket ya da işletmenin stratejik olarak yönetilmesinin sağlanması",
+        "Rekabetçi dezavantajı elde edilmesi",
+        "Şirketteki daha iyi olan uygulamaların ortaya çıkarılması",
+        "Çalışanlardaki motivasyonun sağlanması",
+        "İşletmelerin maliyetlerinin düşürülmesi"
+      ]
+    },
+    {
+      "text": "Yatay, sınıfının en iyisi veya jenerik kıyaslama olarak da adlandırılır. Bu kıyaslamadaki amaç, dünya çapında bir işi konu ya da sektör fark etmeksizin bir süreci, ürünü, hizmeti en iyi gerçekleştiren, başarılı olduğu kabul edilen bir örneğin araştırılmasıdır. Yukarıda tanımı verilmiş kıyaslama türü aşağıdakilerden hangisidir ?",
+      "choices": [
+        "İçsel Kıyaslama",
+        "Stratejik Kıyaslama",
+        "Genel Kıyaslama",
+        "Sürece Odaklı Kıyaslama",
+        "Rekabetçi Kıyaslama"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi verilerin bir araya getirilmesinde istatiksel verilerden yardım alır ?",
+      "choices": [
+        "Yeni yaklaşımların denenmesi",
+        "sistematik sorun çözme",
+        "Başkalarından ögrenme",
+        "Doğrudan ögrenme",
+        "Bilginin transferi"
+      ]
+    },
+    {
+      "text": "Yeni bilgilerin test edilmesi ve sistematik olarak araştırılmasını içermektedir. Bilimsel yöntemi kullanma önemlidir ve sistematik sorun çözme anlayışı ile açık bir paralellik taşımaktadır’ özellikleri aşağıdakilerden hangisine aittir?",
+      "choices": [
+        "Sistematik Sorun Çözme",
+        "Geçmiş Deneyimlerden Yararlanarak Öğrenme",
+        "Yeni Yaklaşımların Denenmesi",
+        "Başkalarından Öğrenme",
+        "Bilginin Transferi"
+      ]
+    },
+    {
+      "text": "Daha fazla öğrenme için bilgi tüm örgüt içinde hızlı ve etkin bir şekilde yayılmalıdır. Bilgi, birkaç elde değil de örgüt içinde her tarafa yayıldığı zaman maksimum bir fayda sağlar. Bilginin yayılması ……,…..ve …….olabilir. Bilginin transferi tanımına göre Bilgiler ne tür yollarla yayılır ?",
+      "choices": [
+        "Duygusal fiziksel empati",
+        "yazılı, sözlü ,görüntülü",
+        "Duygusal, sözlü,empati",
+        "Empati, fiziksel, yazılı",
+        "sözlü, görüntülü, duygusal"
+      ]
+    },
+    {
+      "text": "Bu metotla öğrenen örgütler birey ve takım düzeyinde yeni yeterlilikler ve kapasiteler geliştirmeye çalışmaktadırlar. Bu tanım hangi öğrenme yoluna aittir ?",
+      "choices": [
+        "Tecrübe Yoluyla Öğrenme",
+        "Sınır Taraması Yoluyla Öğrenme",
+        "Sürekli İlerleme Yoluyla Öğrenme",
+        "Beceri Düzeyini Artırma Yoluyla Öğrenme",
+        "Gözlemleme yoluyla öğrenme"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi tespit edilen örgütsel ögrenme tiplerinden degildir ?",
+      "choices": [
+        "Tecrübe Yoluyla Öğrenme",
+        "Sınır Taraması Yoluyla Öğrenme",
+        "Sürekli İlerleme Yoluyla Öğrenme",
+        "Beceri Düzeyini Artırma Yoluyla Öğrenme",
+        "Gözlemleme yoluyla ögrenme"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi senge’nin saptamış olduğu yedi tür öğrenme yetersizliklerinden degildir ?",
+      "choices": [
+        "Pozisyon ve Kişisel Kimlik",
+        "Düşmanı içeride Arama Zihniyeti",
+        "Önceden Etkin Olma ve Sorumluluk Üstlenme",
+        "Olaylara Takılıp Kalma Alışkanlığı",
+        "Geçmiş Deneyimlerden Yararlanarak Öğrenme"
+      ]
+    },
+    {
+      "text": "Personel güçlendirme faaliyetlerinin başarıyı yakalayabilmesi için aşağıdakilerden hangisi güçlendirilecek personelde olması gereken özelliklerden biri değildir?",
+      "choices": [
+        "Personelin sürekli kendini geliştirme arzusu olması",
+        "Değişime açık olması",
+        "Kendine güven derecesinin düşük olması",
+        "Dinleme ve geribildirim alma yeteneğinin olması",
+        "Personelin bilgi düzeyinin yüksek olması"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi personel güçlendirme yararları arasında söylenemez?",
+      "choices": [
+        "Güçlendirme yöneticileri çalışanların aktif denetimi yükünden kurtarır",
+        "Çalışanlara sahiplik duygusu vererek ve işlerini başarma duygusu Ekleyerek onları motive eder",
+        "Güçlendirme sayesinde örgütlerde verim artışı sağlanır",
+        "Güçlendirme ile karar verme sürecinde uzama meydana gelir",
+        "Güçlenlendirme sayesinde işgörenler daha fazla sorumluluk üstlenmeye eğilimli olurlar."
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi personel güçlendirmede karşılaşılabilecek sorunlardan biri değildir?",
+      "choices": [
+        "Güçlendirme sürecinde yöneticilerin uygulayacakları rollerini onlara açıklamada ve onları bu konuda eğitmede başarısız olunması",
+        "Görev ve sorumluluklarda belirsizlik olması",
+        "Örgüt içinde işbirliği özendirmek için takımlar oluşturulması ve takım çalışmalarına öncelik verilmesi",
+        "Kural ve politikaların insandan daha önemli olması",
+        "Yeni sorumluluklar verilen işgörenleri bu konuda eğitecek personel eksikliği"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi ‘Yeteneği oluşturan temel özellikler’den değildir ?",
+      "choices": [
+        "Başarı",
+        "Pratiklik",
+        "Zaman",
+        "Liderlik",
+        "İleri görüşlülük"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Yetenek yönetimi faydalarındandır ?",
+      "choices": [
+        "Sonuçları ölçümleme",
+        "Şirket içi dengeler",
+        "Rekabet avantajı",
+        "Basitlik",
+        "Hedeflerle ilişkilendirme"
+      ]
+    },
+    {
+      "text": "1-Hedeflerin ve stratejilerin belirlenmesi 2-Kilit pozisyonların belirlenmesi 3-Yetenek profilinin çıkartılması 4-Potansiyellerin belirlenmesi 5-Durum değerlendirmesi ve terfi 6-Gelişim planlarının hazırlanması ve uygulanması 7-Adayın performansının değerlendirilmesi 8-Yetenek açığının analizi Yukarıdaki yetenek yönetimi süreci maddelerinin doğru sıralanışı aşağıdakilerden hangisidir?",
+      "choices": [
+        "1-2-3-4-8-6-7-5",
+        "1-2-3-4-5-6-7-8",
+        "1-3-5-8-7-6-2-4",
+        "5-6-8-1-4-3-2-7"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi altı sigma araçlarından biri değildir?",
+      "choices": [
+        "Akış Çizelgeleri",
+        "Matris Diyagramı",
+        "Hata Modları ve Etkileri Analizi",
+        "Ağaç Diyagramı",
+        "Frekans Çizelgesi"
+      ]
+    },
+    {
+      "text": "Altı sigma için önemli bir isim olan Bill Smith hataların azaltılmasını sağlayacak 4 aşamadan meydana gelen sorun çözme yaklaşımı olan MAIC’in açılımı aşağıdaki seçeneklerden hangisinde doğru sıralama ile verilmiştir ?",
+      "choices": [
+        "Kontrol etme, Ölçme, Geliştirme, Analiz etme",
+        "Ölçme, Analiz etme, Geliştirme, Kontrol etme",
+        "Geliştirme, Analiz etme, Ölçme, Kontrol etme",
+        "Kontrol etme, Analiz etme, Ölçme, Geliştirme",
+        "Ölçme, Kontrol etme, Geliştirme, Analiz etme"
+      ]
+    },
+    {
+      "text": "Altı sigma yöneticilerinin kendilerine sordukları ‘Gerçekten ihtiyaç duyduğum veriler nelerdir ? Bu verilerden en üst düzeyde faydayı nasıl sağlayabiliriz ?’ gibi sorunların cevaplarını bulmalarını kolaylaştıran altı sigma ilkesi hangisidir ?",
+      "choices": [
+        "Sınırsız İşbirliği",
+        "Proaktif Yönetim",
+        "Sürece Odaklanma, Yönetimi İyileştirme",
+        "Verilere ve Gerçeklere Dayalı Yönetim",
+        "Gerçek Müşteri Odağı"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi dışsal değişim modellerinden biri değildir?",
+      "choices": [
+        "Teknolojik değişme",
+        "Ahlaki davranış yönetimi",
+        "Küreselleşme",
+        "İşgücü çeşitliliği",
+        "Örgüt iklimi"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi değişime karşı direnç nedenlerinden biridir?",
+      "choices": [
+        "Otorite kaybı",
+        "Kısa vadeli başarılara önem verme",
+        "Strateji oluşturma",
+        "Aciliyet duygusu yaratma",
+        "Değişimin örgüte bildirilmesi"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi değişim süreçlerinden biri değildir?",
+      "choices": [
+        "Değişim gerekliliğini belirtmek",
+        "Stratejik plan ve vizyonun oluşturulması",
+        "Sürecin yeniden dizaynı",
+        "Geliştirme",
+        "Uygulama"
+      ]
+    },
+    {
+      "text": "Örgütlerde etik ortak karar alma sürecinde değerlerin yansıtılma kapasitesi olarak tanımlanabilir. örgüt etiği bireylerin istek ve ihtiyaçlarının örgütün iyi durumuna bağımlı kılınmaları anlamına gelir. İfadesi aşağıdaki seçeneklerin hangisinin tanımıdır?",
+      "choices": [
+        "Yönetsel etik",
+        "Mesleki etik",
+        "Örgütsel etik",
+        "Pazarlama etiği"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi etiğin tanımıdır?",
+      "choices": [
+        "Genellikle kültürel, dinî, seküler ve felsefi topluluklar tarafından, insanların çeşitli davranışlarının yanlış veya doğru oluşunu belirleyen bir yargı ve ilkeler sistemi kavramı ve/veya inancı için kullanılır.",
+        "insanın doğuştan getirdiği ya da sonradan kazandığı birtakım tutum ve davranışların tümüdür",
+        "Bir toplumda genel olarak uyulması beklenilen kurallar ve yapılması gereken görevlerin tümüdür. Bir toplumdaki iyi ya da kötü sayılan davranışlar manzumesidir.",
+        "Bireyin veya ahlaki failin alıcı değil de bütünüyle kurucu ya da etkin olduğu bir alan ya da tutumu ifade eder."
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi etiği etkileyen faktörler arasında değildir?",
+      "choices": [
+        "Kültür",
+        "Değerler",
+        "Ahlak",
+        "Normlar"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi sanal organizasyonun özelliklerinden biri değildir?",
+      "choices": [
+        "Sanal organizasyonların cevap yetenekleri yüksektir",
+        "Temeli bilgi ve uzmanlığa dayanır",
+        "Uyum yeteneğine sahiptirler",
+        "Sanal organizasyonun somut bir ofisi vardır",
+        "Düşük maliyetle yüksek verim elde ederler"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi geleneksel organizasyon yapısında bulunur?",
+      "choices": [
+        "İşe odaklıdır",
+        "Dinamiktir",
+        "Esnektir",
+        "Beceri odaklıdır",
+        "Müşteri odaklıdır"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Sanal Organizasyonların yaşam döngüleri arasında yer almaz?",
+      "choices": [
+        "İş Fırsatı",
+        "Kurumsal Yapılandırma",
+        "Kurumsal Evrim",
+        "Büyük bir iş ortağı belirleme",
+        "Taleplerin değerlendirilmesi"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi A tipi kişilik özelliklerinden biri değildir?",
+      "choices": [
+        "Telaş içindedir",
+        "Rekabetçidir",
+        "Katı ve kesindir",
+        "Hırslıdır",
+        "Sayılara yargılara yer vermez"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi kişisel stresle başa çıkma yöntemlerindendir?",
+      "choices": [
+        "Çalışanlara ve ekip çalışmasına destek",
+        "Katılım",
+        "Çekici bir ortam",
+        "Verimlilik ve iş doyumu",
+        "Zaman yönetmeyi öğrenmek"
+      ]
+    },
+    {
+      "text": "Aşağıdakilerden hangisi stresin kaynaklarından biridir?",
+      "choices": [
+        "Rekabet",
+        "Konuşmalarda belirsizlik ve kopukluk",
+        "Yetersizlik ve güvensizlik duyguları",
+        "Başarısızlıklara yoğunlaşmak",
+        "En iyi olanı değil garanti olanı seçmek"
+      ]
+    }
+  ],
+  "answers": [2, 3, 2, -1, 2, 5, 5, 3, 2, 4, 2, 3, 2, 3, 2, 4, 5, 2, 3, 4, 3, 5, 3, 1, 5, 2, 4, 5, 1, 4, 3, 3, 3, 4, 1, 5, 5, 5, 1]
+}
